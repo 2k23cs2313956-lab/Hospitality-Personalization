@@ -7,7 +7,7 @@ This project aims to revolutionize the hospitality industry by using **Large Lan
 - **Guest Feedback Analysis**: Extracts and interprets guest feedback to identify preferences and sentiment.
 - **Personalized Recommendations**: Offers tailored activity and amenity suggestions based on guest profiles.
 - **Real-Time Alerts**: Sends notifications to service teams for immediate action.
-- **Sentiment Monitoring**: Tracks and visualizes sentiment trends to improve customer experiences.
+- **Sentiment Monitoring** : Tracks and visualizes sentiment trends to improve customer experiences.
 - **Scalable & Modular**: Designed for easy integration with existing hotel management systems.
 
 ## 🛠️ Tech Stack
