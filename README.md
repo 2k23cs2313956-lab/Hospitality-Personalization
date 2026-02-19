@@ -16,7 +16,7 @@ This project aims to revolutionize the hospitality industry by using **Large Lan
 - **Backend**: Python (data extraction and sentiment analysis)
 - **AI Models**: OpenAI GPT, Meta LLaMA
 - **Database**: MongoDB (for guest information and feedback storage)
-- **APIs**: RESTful API for seamless communication
+- **APIs**: RESTful API for seamless communication.
 
 ## 📊 System Workflow
 
