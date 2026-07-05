@@ -3,7 +3,7 @@
 This project aims to revolutionize the hospitality industry by using **Large Language Models (LLMs)** to analyze guest feedback, monitor sentiment trends, and personalize recommendations. The system dynamically enhances guest satisfaction by providing real-time alerts to service teams.
 
 ## 📌 Features
-=======
+
 ## 📌 Features 
 
 - **Guest Feedback Analysis**: Extracts and interprets guest feedback to identify preferences and sentiment.
@@ -11,7 +11,7 @@ This project aims to revolutionize the hospitality industry by using **Large Lan
 - **Real-Time Alerts**: Sends notifications to service teams for immediate action.
 
 - **Sentiment Monitoring**: Tracks and visualizes sentiment trends to improve customer experiences.
-=======
+
 - **Sentiment Monitoring** : Tracks and visualizes sentiment trends to improve customer experiences.
 - 
 - **Scalable & Modular**: Designed for easy integration with existing hotel management systems.
@@ -22,9 +22,9 @@ This project aims to revolutionize the hospitality industry by using **Large Lan
 - **Backend**: Python (data extraction and sentiment analysis)
 - **AI Models**: OpenAI GPT, Meta LLaMA
 - **Database**: MongoDB (for guest information and feedback storage)
-<<<<<<< HEAD
+
 - **APIs**: RESTful API for seamless communication
-=======
+
 - **APIs**: RESTful API for seamless communication.
 
 ## 📊 System Workflow
