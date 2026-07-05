@@ -1,4 +1,4 @@
-# 🏨 AI-Powered Guest Experience Personalization System
+# 🏨 AI-Powered Hospitality Personalization System
 
 This project aims to revolutionize the hospitality industry by using **Large Language Models (LLMs)** to analyze guest feedback, monitor sentiment trends, and personalize recommendations. The system dynamically enhances guest satisfaction by providing real-time alerts to service teams.
 
